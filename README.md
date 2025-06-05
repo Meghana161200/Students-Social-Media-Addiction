@@ -14,7 +14,7 @@ This project explores how social media usage affects students' academic performa
   - **Academic Impact**: Binary (Yes/No)
 
 
-### Insights
+## Insights
 
 - **Platform Summary**
 - **Addiction Level by Age Group and Gender**
