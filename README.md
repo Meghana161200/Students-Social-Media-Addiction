@@ -26,8 +26,6 @@ This project explores how social media usage affects students' academic performa
 - **Relationship Status vs Usage & Conflicts**
 
 
----
-
 ## 🛠 Tools Used
 
 - Microsoft Excel
